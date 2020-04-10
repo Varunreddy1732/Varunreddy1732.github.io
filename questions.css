@@ -1,0 +1,35 @@
+body{
+	background-color:burlywood;
+}
+
+.content1{
+	background-color:burlywood;
+	width: 10%;
+	height: 100px;
+	float: left;
+}
+.content2{
+	background-color:cadetblue;
+	width: 80%;
+	height: 600px;
+	float: left;
+	text-align: center;
+}
+
+.content2 input{
+	width: 15%;
+	height: 30px;
+}
+
+.content2 button{
+	width: 7%;
+	height: 30px;
+	background-color: coral;
+	color: white;
+	padding: 5px;
+}
+.content3{
+	background-color: white;
+	width: 10%
+	height:100px;
+}
